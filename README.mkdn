@@ -1,4 +1,4 @@
-Havoc-OS
+Test_Rom
 ===========
 
 
@@ -39,7 +39,7 @@ To initialize your local repository, use this command:
 ------------------------------------------------------
 
 ```bash
-   repo init -u https://github.com/Havoc-OS/android_manifest.git -b ten
+   repo init -u https://github.com//abhinav78910/Test_Rom -b ten
 ```
   
 To Sync the source:
