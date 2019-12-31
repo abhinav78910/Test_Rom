@@ -64,7 +64,4 @@ Initialize the environment with the envsetup.sh script. Note that replacing "sou
 Enter the number of the build you want to start and press enter
 
 
-Applying for Maintainership
----------------
 
-If you have successfully built for your device and want to apply for maintainership then drop in a message to SKULSHADY on Telegram or XDA.
